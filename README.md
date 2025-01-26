@@ -51,7 +51,7 @@ This React application implements a basic e-commerce cart with features like:
     Start the development server: npm start 
 
     Alternatively, you can run it using;
-    
+
                 https://Rmrti.github.io/simple-ecommerce-cart
 
         
@@ -74,10 +74,9 @@ Contributions are welcome! Please feel free to fork this repository and submit p
 
 License:
 
-This project is licensed under the MIT License.  
+This project is a free to use.  
 
 Additional Notes:
 
     The project adheres to best practices in React development, including proper component structure, clear naming conventions, and efficient state management.
-    The code is well-commented and easy to read and understand.
     The project demonstrates a good understanding of React concepts and a focus on creating a user-friendly and functional e-commerce cart.
