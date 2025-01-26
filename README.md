@@ -51,6 +51,8 @@ This React application implements a basic e-commerce cart with features like:
     Start the development server: npm start 
 
     Alternatively, you can run it using;
+    
+                https://Rmrti.github.io/simple-ecommerce-cart
 
         
 
